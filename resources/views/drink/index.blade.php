@@ -9,7 +9,7 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
   <!-- サブコンポーネント -->
   <div class="container">
-    <a class="navbar-brand" href="index.html">Mr. M COFFEE</a>
+    <a class="navbar-brand" href="index.html">Saketter</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -51,7 +51,7 @@
     </div>
   </div>
 </nav>
-
 <script src="{{ asset('/js/jquery-3.4.1.min.js') }}"></script>
+<script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
 </body>
 </html>
